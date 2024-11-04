@@ -10,11 +10,11 @@ The script enables you to:
 - Reconstruct the original behavioral task from the dataset.
 - Perform a variety of analyses, including:
   - Principal Component Analysis (PCA)
-  - Joint PCA (jPCA)
-  - Differential PCA (dPCA)
+  - jPCA
+  - dPCA
   - Factor Analysis
 
-Additionally, the script provides tools for identifying orthogonal subspaces related to preparation and execution phases.
+Additionally, the script provides tools for identifying orthogonal subspaces related to preparation and execution.
 
 ## Prerequisites
 
